@@ -1,20 +1,21 @@
-<h3 align="center">
+<!-- <h3 align="center">
   Welcome to WALAA ALI's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h3>-->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!--  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer..;Every%20Day%20can%20be%20Start..&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+</p>-->
 
 
 
-
+<!-- 
 🚀 **About Me:**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development.
-- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.-->
+
 
 ### Connect with Me :
 
