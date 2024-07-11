@@ -31,7 +31,7 @@
   </a>
 
 </div>
-<!-- 
+
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -47,7 +47,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
--->
+
 
 
 
