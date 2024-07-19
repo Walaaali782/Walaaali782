@@ -17,35 +17,9 @@
 - 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.-->
 
 
-### Connect with Me :
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/walaa-ali-1ba731247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
-    <img src="https://img.shields.io/badge/-WALAA-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-   <a href="t.me/WALAA782/" target="_blank">
-    <img src="https://img.shields.io/badge/WALAA-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100034965489710/" target="_blank">
-    <img src="https://img.shields.io/badge/-WALAA-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 
-</div>
 
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
 
