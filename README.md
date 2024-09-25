@@ -1,23 +1,45 @@
-<!-- <h3 align="center">
-  Welcome to WALAA ALI's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>-->
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!--  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer..;Every%20Day%20can%20be%20Start..&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Walaa+Ali)](https://git.io/typing-svg)
+<h3 align="center">Software Engineer Who aspires to be brilliant and proficient in every piece of software he writes.</h3>
 
 
 
-<!-- 
+
+
+
+- 💬 Ask me about **js-Java-Css-Python-Html-MySql-Sql**
+
+- 📫 How to reach me **walaaalihassan9@gmail.com**
+
+
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,anaconda,eclipse,notion,nodejs,javascript,typescript,angular,vue,express,cmake,codepen,cs,java,gradle,nextjs,linux,kali,bash,firebase,docker,graphql,cypress,jenkins,kafka,kubernetes,go,rust,python,flask,django,pycharm,elixir,postman,terraform,ansible,postgres,mysql,sqlite,mongodb,cassandra,raspberrypi,arduino,azure,redux,redis,opencv,tensorflow,figma,blender,ai,au,ps,pr,xd" />
+
+</div>
+
+
+<br/>
+<hr/>
+
+
+
 🚀 **About Me:**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development.
-- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.-->
+- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.
 
 
 
+
+<hr/>
+
+<hr/>
+
+<hr/>
 
 
 
@@ -35,12 +57,12 @@
   <br/>
   <br/>
       
-  <img src="https://streak-stats.demolab.com?user=walaaali782&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=walaaali782&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="420" alt="streak graph"  />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=walaaali782&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walaaali782&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walaaali782&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="400" alt="languages graph"  />
 </div>
-
+---
