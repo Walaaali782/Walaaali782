@@ -6,9 +6,15 @@
 
 
 
-- 💬 Ask me about **js-Java-Css-Python-Html-MySql-Sql**
+
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+  
+- 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development and machine learning
+  
+- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.
 
 - 📫 How to reach me **walaaalihassan9@gmail.com**
+
 
 
 
@@ -25,17 +31,6 @@
 <br/>
 <hr/>
 
-
-
-🚀 **About Me:**
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development.
-- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.
-
-
-
-
-<hr/>
 
 
 
