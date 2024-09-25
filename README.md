@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,anaconda,eclipse,notion,nodejs,javascript,typescript,angular,vue,express,cmake,codepen,cs,java,gradle,nextjs,linux,kali,bash,firebase,docker,graphql,cypress,jenkins,kafka,kubernetes,go,rust,python,flask,django,pycharm,elixir,postman,terraform,ansible,postgres,mysql,sqlite,mongodb,cassandra,raspberrypi,arduino,azure,redux,redis,opencv,tensorflow,figma,blender,ai,au,ps,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,anaconda,eclipse,notion,nodejs,javascript,typescript,vue,express,codepen,cs,java,gradle,nextjs,bash,firebase,docker,graphql,cypress,jenkins,kafka,kubernetes,go,rust,python,flask,django,pycharm,elixir,postman,terraform,postgres,mysql,sqlite,mongodb,cassandra,raspberrypi,arduino,azure,redux,redis,opencv,tensorflow,figma,blender,ai" />
 
 </div>
 
