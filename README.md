@@ -11,7 +11,7 @@
   
 - 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development and machine learning
   
-- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://github.com/Walaaali782/) to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [https://github.com/Walaaali782/](https://portfolio-kappa-three-76.vercel.app/) to see some of the projects I've worked on.
 
 - 📫 How to reach me **walaaalihassan9@gmail.com**
 
