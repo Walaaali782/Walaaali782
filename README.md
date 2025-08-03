@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Walaa+Ali)](https://git.io/typing-svg)
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&color=000000&lines=%F0%9F%91%8B+Walaa+Ali" alt="Typing SVG" />
+</div>
 <h3 align="center">Software Engineer Who aspires to be brilliant and proficient in every piece of software he writes.</h3>
 
 
