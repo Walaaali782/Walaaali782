@@ -9,9 +9,9 @@
 
 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Graduate of FCAI , I'm constantly learning and exploring new technologies to improve my skills.
   
-- 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development and machine learning
+- 💬 Ask me about my experience with Java,Html, Css,JavaScript, or anything related to web development and machine learning
   
 - 👨‍💻 Check out my portfolio at [My-Portfolio](https://portfolio-kappa-three-76.vercel.app/) to see some of the projects I've worked on.
 
